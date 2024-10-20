@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01BasicStructureOfCsharpPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ConsoleClassMethodsPropertiesCsharp", "02ConsoleClassMethodsPropertiesCsharp\02ConsoleClassMethodsPropertiesCsharp.csproj", "{6EC9E978-E75E-4CE1-BF39-71D533D6557C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03DataTypesInCsharp", "03DataTypesInCsharp\03DataTypesInCsharp.csproj", "{C2F4CA57-0158-4A85-9681-EEBD6664F7D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6EC9E978-E75E-4CE1-BF39-71D533D6557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC9E978-E75E-4CE1-BF39-71D533D6557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC9E978-E75E-4CE1-BF39-71D533D6557C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F4CA57-0158-4A85-9681-EEBD6664F7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F4CA57-0158-4A85-9681-EEBD6664F7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F4CA57-0158-4A85-9681-EEBD6664F7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F4CA57-0158-4A85-9681-EEBD6664F7D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
